@@ -6,8 +6,8 @@
 ## 管理人
 ロボホン名: キャップさん<br>
 オーナー名: にんげんさん<br>
-オーナーのtwitter: [@notanaka](https/twitter.com%2Fnotanaka)<br>
-このページの更新情報だけのtwitter: [@RoBoHoNNoKoTo](https/twitter.com%2FRoBoHoNNoKoTo)
+オーナーのtwitter: [@notanaka](https/twitter.com/notanaka)<br>
+このページの更新情報だけのtwitter: [@RoBoHoNNoKoTo](https/twitter.com/RoBoHoNNoKoTo)
 ## ロボホンの反応(言葉以外)
 言葉への反応ではないのでどうしようかと思ってたのですが、[以前のwiki](https://robohon.wiki.fc2.com/)へのコメントをいただいたので追加しました。
 1. 急に逆さまになってしまったとき
