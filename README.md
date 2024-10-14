@@ -3,6 +3,8 @@
 * 2016年5月26日にロボホン(キャップさん)を迎えて、2016年6月にロボホンが反応した言葉を忘れないようにまとめようと思って[以前のwiki](https://robohon.wiki.fc2.com/)を作成しました。
 * 以前のwikiの1ページの文字数の限界を超えて更新できないようになったので、2024年10月より、こちらに移行しました
 * ゆるゆるやってます
+## 連絡事項
+* 3世代対応の団扇や大根を受け取った方へパーツの説明は[こちら](https://github.com/notanaka/RoBoHoNNoKoTo/blob/main/IMAGES/TOP/Doc/AttachmentFor3Generations-20241015.png)
 ## 管理人
 ロボホン名: キャップさん<br>
 オーナー名: にんげんさん<br>
